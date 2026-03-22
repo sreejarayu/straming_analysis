@@ -1,4 +1,4 @@
-# straming_analysis
+# streaming_analysis
 Comparative analysis of streaming platforms to understand content distribution, genres, and growth trends using Python, Pandas, and Power BI.
 # Streaming Platform Content Strategy Analysis
 
